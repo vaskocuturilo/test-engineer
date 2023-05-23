@@ -4,7 +4,7 @@ colorama==0.4.1
 configparser==3.7.4
 crayons==0.2.0
 idna==2.8
-requests==2.21.0
+requests==2.31.0
 selenium==3.141.0
 unittest-data-provider==1.0.1
 urllib3==1.26.5
