@@ -7,5 +7,5 @@ idna==2.8
 requests==2.31.0
 selenium==3.141.0
 unittest-data-provider==1.0.1
-urllib3==1.26.5
+urllib3==1.26.17
 webdriver-manager==1.7
