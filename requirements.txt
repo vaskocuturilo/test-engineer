@@ -3,7 +3,8 @@ chardet==3.0.4
 colorama==0.4.1
 configparser==3.7.4
 crayons==0.2.0
-idna==2.8
+dependabot/pip/idna-3.7
+idna==3.7
 requests==2.33.0
 selenium==3.141.0
 unittest-data-provider==1.0.1
